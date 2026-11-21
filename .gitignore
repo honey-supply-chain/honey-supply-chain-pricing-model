@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Umgebungsvariablen / Secrets
+.env
+
+# IDE
+.idea/
+.vscode/
+*.iml
